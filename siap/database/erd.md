@@ -84,3 +84,4 @@ erDiagram
     
     USERS ||--o{ TEACHERS : has
     STUDENTS ||--o{ STUDENT_DOCUMENTS : has
+```
